@@ -1,2 +1,2 @@
 # About
-## Hi, my name is Tesneem Essa. I am a senior majoring in Computer Science at Hunter College. 
+Welcome to my webpage. My name is Tesneem Essa and I am a senior majoring in Computer Science at Hunter College. 
